@@ -1,0 +1,11 @@
+---
+title: A quarto vignette
+vignette: >
+  %\VignetteIndexEntry{A quarto vignette}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
+---
+
+```
+library(useself)
+```
